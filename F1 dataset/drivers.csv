@@ -1,0 +1,25 @@
+Pos,Driver,Nationality,Car,Pts
+1,MaxVerstappen,NED,Red Bull Racing Honda RBPT,437
+2,LandoNorris,GBR,McLaren Mercedes,374
+3,CharlesLeclerc,MON,Ferrari,356
+4,OscarPiastri,AUS,McLaren Mercedes,292
+5,CarlosSainz,ESP,Ferrari,290
+6,GeorgeRussell,GBR,Mercedes,245
+7,LewisHamilton,GBR,Mercedes,223
+8,SergioPerez,MEX,Red Bull Racing Honda RBPT,152
+9,FernandoAlonso,ESP,Aston Martin Aramco Mercedes,70
+10,PierreGasly,FRA,Alpine Renault,42
+11,NicoHulkenberg,GER,Haas Ferrari,41
+12,YukiTsunoda,JPN,RB Honda RBPT,30
+13,LanceStroll,CAN,Aston Martin Aramco Mercedes,24
+14,EstebanOcon,FRA,Alpine Renault,23
+15,KevinMagnussen,DEN,Haas Ferrari,16
+16,AlexanderAlbon,THA,Williams Mercedes,12
+17,DanielRicciardo,AUS,RB Honda RBPT,12
+18,OliverBearman,GBR,Haas Ferrari,7
+19,FrancoColapinto,ARG,Williams Mercedes,5
+20,ZhouGuanyu,CHN,Kick Sauber Ferrari,4
+21,LiamLawson,NZL,RB Honda RBPT,4
+22,ValtteriBottas,FIN,Kick Sauber Ferrari,0
+23,LoganSargeant,USA,Williams Mercedes,0
+24,JackDoohan,AUS,Alpine Renault,0
